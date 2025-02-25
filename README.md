@@ -35,6 +35,19 @@
 
 ---
 
+## 動作確認
+#### 待機画面
+![Image](https://github.com/user-attachments/assets/11b5b375-a267-40da-ab10-8326d9e58237)
+
+#### 再生と停止
+https://github.com/user-attachments/assets/cfa164b2-6949-4cdd-9e5f-12dc9752f25b
+
+#### BPMの変更
+https://github.com/user-attachments/assets/b519a49d-1c76-45b9-85b3-951585fb0e81
+
+#### 拍の変更
+https://github.com/user-attachments/assets/981b1250-ec95-4b56-995a-62e259d19184
+
 
 ## 力を入れたポイント
 
