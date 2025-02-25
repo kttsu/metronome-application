@@ -1,4 +1,4 @@
-## メトロノームアプリ - Metronome Application
+## メトロノームアプリケーション - Metronome Application
 
 ## 概要
 - 本アプリケーションは、Reactを使用して開発したWebメトロノームアプリです。 
