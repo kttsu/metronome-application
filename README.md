@@ -2,7 +2,7 @@
 
 ## 概要
 - 本アプリケーションは、Reactを使用して開発したWebメトロノームアプリです。 
-- ユーザーはテンポ (BPM)、拍子 (Time Signature) を自由に調整でき、クリック音を再生しながらリズムを刻むことができます。
+- ユーザーはBPM、拍子を自由に調整でき、クリック音を再生しながらリズムを刻むことができます。
 - ライブ演奏や練習に役立つシンプルで使いやすい設計を目指しました。
 - ローカル環境で連携し、動作確認済み。
   
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/cfa164b2-6949-4cdd-9e5f-12dc9752f25b
 #### BPMの変更
 https://github.com/user-attachments/assets/b519a49d-1c76-45b9-85b3-951585fb0e81
 
-#### 拍の変更
+#### 拍子の変更
 https://github.com/user-attachments/assets/981b1250-ec95-4b56-995a-62e259d19184
 
 
